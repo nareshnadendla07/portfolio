@@ -10,7 +10,7 @@ Welcome! I'm building 10 real-time, problem-solving projects that combine cloud,
 - Subdivision & Real Estate AI Planning
 - Self-Learning SaaS Concepts
 
- Code for most projects is **not publicly available** as they are intended for commercial use, or private consulting. However, each entry includes:
+ Project codebases are kept private to preserve their commercial value. Each listing includes an overview, stack summary, and access links where applicable.
 - Overview of what the tool does
 - Tech stack & architecture
 - Live demo link or screenshots (where applicable)
@@ -31,9 +31,22 @@ Welcome! I'm building 10 real-time, problem-solving projects that combine cloud,
 | ...               | ...              | ...                                    |         |
 
 ---
+## 🛠️ Tech Stack & Tools
+
+- **Cloud:** AWS, Azure
+- **Infrastructure as Code:** Terraform, PowerShell, Azure DevOps
+- **AI & LLMs:** OpenAI (GPT-4), LangChain
+- **Web & Dashboards:** Streamlit, Plotly, Python
+- **Automation & APIs:** FastAPI, Shell scripts, REST/GraphQL
 
 ## 🤝 Connect
 If you'd like to collaborate, use a project, or hire me for freelance/consulting — feel free to reach out.
 
 📬 Email: nareshnadendla07@gmail.com
 🌐 LinkedIn: https://www.linkedin.com/in/naresh-nadendla-b7835723/
+
+---
+
+## 🧭 Vision
+
+This portfolio reflects my long-term goal of combining intelligent infrastructure, automation, and practical tools to create income-generating systems. Every project I build is intended to evolve, scale, and serve both personal goals and community needs.
