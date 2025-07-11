@@ -30,11 +30,13 @@ Each listing includes:
 | Project Name      | Category             | Description                                      | Status       |
 |-------------------|----------------------|--------------------------------------------------|--------------|
 | DueWise           | Legal + GPT AI       | AI-powered verdict generator for contracts       | ✅ Live       |
+| NomadFin          | Personal Finance App | Multi-currency budgeting, goal tracking, and expense forecasting dashboard | ✅ Finalizing |
 | WealthClarity     | Finance / Planning   | Simulator for retirement, rent, income & debt    | 🚧 In Progress|
 | Stock Signal Tool | AI + Investing       | Technical + sentiment-based stock picker         | ✅ MVP        |
 | GPT Tax Bot       | Gov / Tax Automation | ATO claim validator with deduction checker       | 🧪 Prototype  |
-| InfraBot          | Cloud Automation     | AI-assisted Infra-as-Code agent (Terraform-based)| 🧱 Idea        |
+| InfraBot          | Cloud Automation     | AI-assisted Infra-as-Code agent (Terraform-based)| 🧱 Idea       |
 | ...               | ...                  | ...                                              |              |
+
 
 ---
 
