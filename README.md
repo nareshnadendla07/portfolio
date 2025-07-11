@@ -10,8 +10,10 @@ Welcome! I'm building 10 real-time, problem-solving projects that combine cloud,
 - Subdivision & Real Estate AI Planning
 - Self-Learning SaaS Concepts
 
-Each project is:
-- Fully open source (or with clean core logic)
+ Code for most projects is **not publicly available** as they are intended for commercial use, passive income generation, or private consulting. However, each entry includes:
+- Overview of what the tool does
+- Tech stack & architecture
+- Live demo link or screenshots (where applicable)
 - Built to solve a **real-world pain point**
 - Continuously improved based on real feedback
 
@@ -25,6 +27,7 @@ Each project is:
 | WealthClarity     | Finance/Planning | Retirement and income simulator w/ real data | 🚧 Building |
 | Stock Signal Tool | AI + Investing   | Momentum and sentiment-based stock picker | ✅ MVP |
 | GPT Tax Bot       | Gov/Tax Automation | Validates ATO claims and deductions   | 🧪 Prototype |
+| InfraBot          | Cloud Automation  | Infra-as-code agent (Terraform/AI hybrid)    | 🧱 Idea |
 | ...               | ...              | ...                                    |         |
 
 ---
