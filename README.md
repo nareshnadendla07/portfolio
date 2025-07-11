@@ -10,7 +10,7 @@ Welcome! I'm building 10 real-time, problem-solving projects that combine cloud,
 - Subdivision & Real Estate AI Planning
 - Self-Learning SaaS Concepts
 
- Code for most projects is **not publicly available** as they are intended for commercial use, passive income generation, or private consulting. However, each entry includes:
+ Code for most projects is **not publicly available** as they are intended for commercial use, or private consulting. However, each entry includes:
 - Overview of what the tool does
 - Tech stack & architecture
 - Live demo link or screenshots (where applicable)
